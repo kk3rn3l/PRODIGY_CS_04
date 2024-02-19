@@ -19,7 +19,7 @@ Pynput library
 
 ## Usage:
 
-Clone the repository: git clone [repository_link]
+Clone the repository: git clone https://github.com/kk3rn3l/PRODIGY_CS_04.git
 
 Run the script.
 
